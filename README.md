@@ -1,7 +1,7 @@
-OfflineAddress.com
+https://paperwallet.coinsecure.info
 ------------------
 
-OfflineAddress.com is a generator of offline Bitcoin wallets/addresses, with emphasis on:
+Coinsecure Paper Wallet Generator is a generator of offline Bitcoin wallets/addresses, with emphasis on:
 
 * True randomness
 * Security
@@ -9,8 +9,9 @@ OfflineAddress.com is a generator of offline Bitcoin wallets/addresses, with emp
 * Elegance
 
 
-ALL COMM{I,EN}TS ARE WELCOME !
+ALL COMMENTS ARE WELCOME !
 ------------------------------
+We use Offlineaddress.com's Open Source application as the base. We will add several features to this over the next few months.
 
 For more info please check out [this discussion](https://bitcointalk.org/index.php?topic=399452).
 
