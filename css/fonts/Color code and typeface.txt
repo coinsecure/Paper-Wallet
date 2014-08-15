@@ -1,0 +1,9 @@
+
+NEXA LIGHT 
+NEXA BOLD
+
+BLUE : #00B6FF
+GREY : #525252
+
+
+
